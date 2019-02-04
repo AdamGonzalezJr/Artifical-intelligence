@@ -1,1 +1,1 @@
-# CSCI580-Artifical-intelligence
+# Artifical-intelligence
